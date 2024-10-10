@@ -1,6 +1,6 @@
 # sui_miner
-## 官方教程
-[https://github.com/suidouble/sui_meta_miner/tree/main]
+## 教程
+[https://gitlab.com/suidouble/sui_meta]
 ## 运行命令
 ### 只挖FOMO或Meta
 ```
