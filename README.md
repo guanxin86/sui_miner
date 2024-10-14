@@ -21,3 +21,8 @@ node mine.js --fomo --meta --chain=mainnet --phrase="secretphrase"
 ```
 node merge.js --fomo --chain=mainnet --phrase="secretphrase"
 ```
+### 升级程序
+```
+git pull
+npm upgrade
+```
